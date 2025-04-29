@@ -1,7 +1,4 @@
 - "id": "bundler-audit-moretiles-hook"
   "name": "bundler-audit"
-  "entry": "./git-hook-bundler-audit-script"
+  "entry": "./bin/git-hook-bundler-audit-script"
   "language": "system"
-  "args":
-    - "check"
-    - "--update"
