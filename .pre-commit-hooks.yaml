@@ -1,0 +1,8 @@
+---
+"id": "bundler-audit-moretiles-hook"
+"name": "bundler-audit"
+"entry": "bundle-audit"
+"language": "shell"
+"args":
+  - "check"
+  - "--update"
